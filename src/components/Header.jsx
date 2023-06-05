@@ -11,7 +11,7 @@ const Header = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
+            window.open("https://github.com/ronak1311/article_summarizer", "_blank")
           }
           className='black_btn'
         >
@@ -24,7 +24,7 @@ const Header = () => {
         <span className='orange_gradient '>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer
+        Simplify your reading with Lets Summarize, an open-source article summarizer
         that transforms lengthy articles into clear and concise summaries
       </h2>
     </header>
