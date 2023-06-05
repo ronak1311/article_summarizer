@@ -1,1 +1,1 @@
-<img  src="./thumbnail.jpg" height="290px" align="right" />
+<img  src="./thumbnail.jpg" height="500px" align="center" />
