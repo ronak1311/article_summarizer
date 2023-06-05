@@ -63,3 +63,10 @@ Contributions are welcome! If you'd like to contribute to the Article Summarizer
    ```shell
    git push origin feature/your-feature-name
 5. Open a pull request on the original repository, describing your changes in detail.
+
+
+## License
+The Article Summarizer Application is licensed under the MIT License.
+
+## Contact
+For any questions or inquiries, please contact gandhironak6@gmail.com
