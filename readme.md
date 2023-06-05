@@ -39,6 +39,26 @@ To use the Article Summarizer Application, follow these steps:
    npm run dev
    
    
-Access the application through your web browser at [http://127.0.0.1:5173/
+Access the application through your web browser at http://127.0.0.1:5173/
    
    
+Contributing
+Contributions are welcome! If you'd like to contribute to the Article Summarizer Application, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch:
+   ```shell
+   git checkout -b feature/your-feature-name
+
+
+3. Make your changes and commit them:
+   ```shell
+   git commit -m "Add your commit message"
+
+
+4. Push your changes to your forked repository:
+   ```shell
+   git push origin feature/your-feature-name
+
+5. Open a pull request on the original repository, describing your changes in detail.
